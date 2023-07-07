@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  width: 400px;
+}
+
+._canvas_670zp_1 {
+  width: 1000px;
 }
 
 .App-logo {
